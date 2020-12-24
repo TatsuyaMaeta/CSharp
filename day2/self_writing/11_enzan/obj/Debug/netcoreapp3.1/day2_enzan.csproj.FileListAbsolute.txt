@@ -1,0 +1,12 @@
+/Users/tatsuya.m/CSharp/day2_enzan/bin/Debug/netcoreapp3.1/day2_enzan.deps.json
+/Users/tatsuya.m/CSharp/day2_enzan/bin/Debug/netcoreapp3.1/day2_enzan.runtimeconfig.json
+/Users/tatsuya.m/CSharp/day2_enzan/bin/Debug/netcoreapp3.1/day2_enzan.runtimeconfig.dev.json
+/Users/tatsuya.m/CSharp/day2_enzan/bin/Debug/netcoreapp3.1/day2_enzan.dll
+/Users/tatsuya.m/CSharp/day2_enzan/bin/Debug/netcoreapp3.1/day2_enzan.pdb
+/Users/tatsuya.m/CSharp/day2_enzan/obj/Debug/netcoreapp3.1/day2_enzan.csprojAssemblyReference.cache
+/Users/tatsuya.m/CSharp/day2_enzan/obj/Debug/netcoreapp3.1/day2_enzan.AssemblyInfoInputs.cache
+/Users/tatsuya.m/CSharp/day2_enzan/obj/Debug/netcoreapp3.1/day2_enzan.AssemblyInfo.cs
+/Users/tatsuya.m/CSharp/day2_enzan/obj/Debug/netcoreapp3.1/day2_enzan.csproj.CoreCompileInputs.cache
+/Users/tatsuya.m/CSharp/day2_enzan/obj/Debug/netcoreapp3.1/day2_enzan.dll
+/Users/tatsuya.m/CSharp/day2_enzan/obj/Debug/netcoreapp3.1/day2_enzan.pdb
+/Users/tatsuya.m/CSharp/day2_enzan/obj/Debug/netcoreapp3.1/day2_enzan.genruntimeconfig.cache

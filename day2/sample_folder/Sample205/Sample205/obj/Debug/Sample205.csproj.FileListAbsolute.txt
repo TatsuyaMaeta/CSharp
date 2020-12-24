@@ -1,0 +1,7 @@
+C:\Users\shift\source\repos\Sample205\Sample205\bin\Debug\Sample205.exe.config
+C:\Users\shift\source\repos\Sample205\Sample205\bin\Debug\Sample205.exe
+C:\Users\shift\source\repos\Sample205\Sample205\bin\Debug\Sample205.pdb
+C:\Users\shift\source\repos\Sample205\Sample205\obj\Debug\Sample205.csprojAssemblyReference.cache
+C:\Users\shift\source\repos\Sample205\Sample205\obj\Debug\Sample205.csproj.CoreCompileInputs.cache
+C:\Users\shift\source\repos\Sample205\Sample205\obj\Debug\Sample205.exe
+C:\Users\shift\source\repos\Sample205\Sample205\obj\Debug\Sample205.pdb

@@ -1,0 +1,12 @@
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/bin/Debug/netcoreapp3.1/26_switch.deps.json
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/bin/Debug/netcoreapp3.1/26_switch.runtimeconfig.json
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/bin/Debug/netcoreapp3.1/26_switch.runtimeconfig.dev.json
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/bin/Debug/netcoreapp3.1/26_switch.dll
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/bin/Debug/netcoreapp3.1/26_switch.pdb
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/obj/Debug/netcoreapp3.1/26_switch.csprojAssemblyReference.cache
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/obj/Debug/netcoreapp3.1/26_switch.AssemblyInfoInputs.cache
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/obj/Debug/netcoreapp3.1/26_switch.AssemblyInfo.cs
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/obj/Debug/netcoreapp3.1/26_switch.csproj.CoreCompileInputs.cache
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/obj/Debug/netcoreapp3.1/26_switch.dll
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/obj/Debug/netcoreapp3.1/26_switch.pdb
+/Users/tatsuya.m/CSharp/day3/self_writing/26_switch/obj/Debug/netcoreapp3.1/26_switch.genruntimeconfig.cache

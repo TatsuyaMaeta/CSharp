@@ -1,0 +1,12 @@
+/Users/tatsuya.m/CSharp/consoleName/bin/Debug/netcoreapp3.1/consoleName.deps.json
+/Users/tatsuya.m/CSharp/consoleName/bin/Debug/netcoreapp3.1/consoleName.runtimeconfig.json
+/Users/tatsuya.m/CSharp/consoleName/bin/Debug/netcoreapp3.1/consoleName.runtimeconfig.dev.json
+/Users/tatsuya.m/CSharp/consoleName/bin/Debug/netcoreapp3.1/consoleName.dll
+/Users/tatsuya.m/CSharp/consoleName/bin/Debug/netcoreapp3.1/consoleName.pdb
+/Users/tatsuya.m/CSharp/consoleName/obj/Debug/netcoreapp3.1/consoleName.csprojAssemblyReference.cache
+/Users/tatsuya.m/CSharp/consoleName/obj/Debug/netcoreapp3.1/consoleName.AssemblyInfoInputs.cache
+/Users/tatsuya.m/CSharp/consoleName/obj/Debug/netcoreapp3.1/consoleName.AssemblyInfo.cs
+/Users/tatsuya.m/CSharp/consoleName/obj/Debug/netcoreapp3.1/consoleName.csproj.CoreCompileInputs.cache
+/Users/tatsuya.m/CSharp/consoleName/obj/Debug/netcoreapp3.1/consoleName.dll
+/Users/tatsuya.m/CSharp/consoleName/obj/Debug/netcoreapp3.1/consoleName.pdb
+/Users/tatsuya.m/CSharp/consoleName/obj/Debug/netcoreapp3.1/consoleName.genruntimeconfig.cache

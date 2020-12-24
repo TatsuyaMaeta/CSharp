@@ -1,0 +1,12 @@
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/obj/Debug/netcoreapp3.1/27_case.csprojAssemblyReference.cache
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/obj/Debug/netcoreapp3.1/27_case.AssemblyInfoInputs.cache
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/obj/Debug/netcoreapp3.1/27_case.AssemblyInfo.cs
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/obj/Debug/netcoreapp3.1/27_case.csproj.CoreCompileInputs.cache
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/bin/Debug/netcoreapp3.1/27_case.deps.json
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/bin/Debug/netcoreapp3.1/27_case.runtimeconfig.json
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/bin/Debug/netcoreapp3.1/27_case.runtimeconfig.dev.json
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/bin/Debug/netcoreapp3.1/27_case.dll
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/bin/Debug/netcoreapp3.1/27_case.pdb
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/obj/Debug/netcoreapp3.1/27_case.dll
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/obj/Debug/netcoreapp3.1/27_case.pdb
+/Users/tatsuya.m/CSharp/day3/self_writing/execise/obj/Debug/netcoreapp3.1/27_case.genruntimeconfig.cache

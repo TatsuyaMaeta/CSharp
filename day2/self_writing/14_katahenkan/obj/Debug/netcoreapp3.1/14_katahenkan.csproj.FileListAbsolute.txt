@@ -1,0 +1,12 @@
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/bin/Debug/netcoreapp3.1/14_katahenkan.deps.json
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/bin/Debug/netcoreapp3.1/14_katahenkan.runtimeconfig.json
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/bin/Debug/netcoreapp3.1/14_katahenkan.runtimeconfig.dev.json
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/bin/Debug/netcoreapp3.1/14_katahenkan.dll
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/bin/Debug/netcoreapp3.1/14_katahenkan.pdb
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/obj/Debug/netcoreapp3.1/14_katahenkan.csprojAssemblyReference.cache
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/obj/Debug/netcoreapp3.1/14_katahenkan.AssemblyInfoInputs.cache
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/obj/Debug/netcoreapp3.1/14_katahenkan.AssemblyInfo.cs
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/obj/Debug/netcoreapp3.1/14_katahenkan.csproj.CoreCompileInputs.cache
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/obj/Debug/netcoreapp3.1/14_katahenkan.dll
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/obj/Debug/netcoreapp3.1/14_katahenkan.pdb
+/Users/tatsuya.m/CSharp/day2/self_writing/14_katahenkan/obj/Debug/netcoreapp3.1/14_katahenkan.genruntimeconfig.cache

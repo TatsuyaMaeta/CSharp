@@ -1,0 +1,8 @@
+C:/Users/shift/source/repos/Sample204/Sample204/bin/Debug/Sample204.exe.config
+C:/Users/shift/source/repos/Sample204/Sample204/bin/Debug/Sample204.exe
+C:/Users/shift/source/repos/Sample204/Sample204/bin/Debug/Sample204.pdb
+C:/Users/shift/source/repos/Sample204/Sample204/obj/Debug/Sample204.csproj.CoreCompileInputs.cache
+C:/Users/shift/source/repos/Sample204/Sample204/obj/Debug/Sample204.exe
+C:/Users/shift/source/repos/Sample204/Sample204/obj/Debug/Sample204.pdb
+/Users/tatsuya.m/CSharp/day2/Sample204/Sample204/obj/Debug/Sample204.exe
+/Users/tatsuya.m/CSharp/day2/Sample204/Sample204/obj/Debug/Sample204.pdb
