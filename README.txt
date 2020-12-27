@@ -21,7 +21,8 @@ Visual Studioでのプロジェクトの作り方
 
 〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
 
-
+Sample
+Excercice
 
 
 C#ファイルをデバッグして記述内容を確認するとき
@@ -30,3 +31,15 @@ C#ファイルをデバッグして記述内容を確認するとき
 　cotrol + F5
 
 どちらかで実行
+
+
+
+文頭でusingのネームスペースを追加する
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+

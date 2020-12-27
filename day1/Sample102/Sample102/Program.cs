@@ -8,6 +8,8 @@ namespace Sample102
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(12345);
+
+            //writeだと行末に改行の内容が含まれない
             Console.Write("Hello World!");
             Console.WriteLine("Unity");
         }

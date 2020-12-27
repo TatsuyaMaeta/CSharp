@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/bin/Debug/netcoreapp3.1/Excercice101.deps.json
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/bin/Debug/netcoreapp3.1/Excercice101.runtimeconfig.json
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/bin/Debug/netcoreapp3.1/Excercice101.runtimeconfig.dev.json
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/bin/Debug/netcoreapp3.1/Excercice101.dll
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/bin/Debug/netcoreapp3.1/Excercice101.pdb
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/obj/Debug/netcoreapp3.1/Excercice101.csprojAssemblyReference.cache
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/obj/Debug/netcoreapp3.1/Excercice101.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/obj/Debug/netcoreapp3.1/Excercice101.AssemblyInfo.cs
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/obj/Debug/netcoreapp3.1/Excercice101.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/obj/Debug/netcoreapp3.1/Excercice101.dll
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/obj/Debug/netcoreapp3.1/Excercice101.pdb
+/Users/git-repo/CSharp/day1/Excercice101/Excercice101/obj/Debug/netcoreapp3.1/Excercice101.genruntimeconfig.cache

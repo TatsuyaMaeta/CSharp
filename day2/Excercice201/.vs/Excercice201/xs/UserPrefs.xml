@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{B65EFCA9-F0C5-4028-A45E-A3ED56B197CF}|Default">
-  <MonoDevelop.Ide.ItemProperties.Sample102 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Sample102/Program.cs">
+﻿<Properties StartupConfiguration="{680B9308-DC74-4028-A47A-A1F7510C1467}|Default">
+  <MonoDevelop.Ide.ItemProperties.Excercice201 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Excercice201/Program.cs">
     <Files>
-      <File FileName="Sample102/Program.cs" Line="12" Column="36" />
+      <File FileName="Excercice201/Program.cs" Line="27" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
