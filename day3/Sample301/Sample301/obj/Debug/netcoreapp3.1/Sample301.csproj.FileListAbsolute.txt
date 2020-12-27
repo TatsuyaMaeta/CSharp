@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp/day3/Sample301/Sample301/bin/Debug/netcoreapp3.1/Sample301.deps.json
+/Users/git-repo/CSharp/day3/Sample301/Sample301/bin/Debug/netcoreapp3.1/Sample301.runtimeconfig.json
+/Users/git-repo/CSharp/day3/Sample301/Sample301/bin/Debug/netcoreapp3.1/Sample301.runtimeconfig.dev.json
+/Users/git-repo/CSharp/day3/Sample301/Sample301/bin/Debug/netcoreapp3.1/Sample301.dll
+/Users/git-repo/CSharp/day3/Sample301/Sample301/bin/Debug/netcoreapp3.1/Sample301.pdb
+/Users/git-repo/CSharp/day3/Sample301/Sample301/obj/Debug/netcoreapp3.1/Sample301.csprojAssemblyReference.cache
+/Users/git-repo/CSharp/day3/Sample301/Sample301/obj/Debug/netcoreapp3.1/Sample301.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp/day3/Sample301/Sample301/obj/Debug/netcoreapp3.1/Sample301.AssemblyInfo.cs
+/Users/git-repo/CSharp/day3/Sample301/Sample301/obj/Debug/netcoreapp3.1/Sample301.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp/day3/Sample301/Sample301/obj/Debug/netcoreapp3.1/Sample301.dll
+/Users/git-repo/CSharp/day3/Sample301/Sample301/obj/Debug/netcoreapp3.1/Sample301.pdb
+/Users/git-repo/CSharp/day3/Sample301/Sample301/obj/Debug/netcoreapp3.1/Sample301.genruntimeconfig.cache
