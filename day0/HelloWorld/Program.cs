@@ -10,6 +10,8 @@ namespace HelloWorld
             Console.WriteLine("Hi,Hello World!");
             Console.WriteLine("Get,World");
             Console.WriteLine("123456");
+
+            Console.WriteLine("Hi");
         }
     }
 }
