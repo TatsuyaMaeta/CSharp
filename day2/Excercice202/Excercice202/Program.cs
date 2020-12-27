@@ -6,7 +6,14 @@ namespace Excercice202
     {
         static void Main(string[] args)
         {
+            int a, b, c;
+            a = 2;
+            b = 3;
+            Console.WriteLine(a + b);
 
+            c = a - b;
+
+            Console.WriteLine(c);
 
         }
     }
