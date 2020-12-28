@@ -1,10 +1,19 @@
 ﻿<Properties StartupConfiguration="{6A440B84-ECD4-46D6-A1D0-56E1B6D6741E}|Default">
-  <MonoDevelop.Ide.ItemProperties.Sample401 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Sample401 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Sample401/Program.cs">
     <Files>
       <File FileName="../../../../tatsuya.m/Projects/csharp-repo/csharp.cs" Line="67" Column="13" />
-      <File FileName="Sample401/Program.cs" Line="1" Column="1" />
+      <File FileName="Sample401/Program.cs" Line="10" Column="13" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample401" expanded="True" selected="True">
+            <Node name="Sample401" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

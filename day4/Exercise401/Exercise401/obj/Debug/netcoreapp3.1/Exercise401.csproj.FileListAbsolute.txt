@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/bin/Debug/netcoreapp3.1/Exercise401.deps.json
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/bin/Debug/netcoreapp3.1/Exercise401.runtimeconfig.json
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/bin/Debug/netcoreapp3.1/Exercise401.runtimeconfig.dev.json
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/bin/Debug/netcoreapp3.1/Exercise401.dll
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/bin/Debug/netcoreapp3.1/Exercise401.pdb
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/obj/Debug/netcoreapp3.1/Exercise401.csprojAssemblyReference.cache
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/obj/Debug/netcoreapp3.1/Exercise401.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/obj/Debug/netcoreapp3.1/Exercise401.AssemblyInfo.cs
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/obj/Debug/netcoreapp3.1/Exercise401.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/obj/Debug/netcoreapp3.1/Exercise401.dll
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/obj/Debug/netcoreapp3.1/Exercise401.pdb
+/Users/git-repo/CSharp/day4/Exercise401/Exercise401/obj/Debug/netcoreapp3.1/Exercise401.genruntimeconfig.cache
