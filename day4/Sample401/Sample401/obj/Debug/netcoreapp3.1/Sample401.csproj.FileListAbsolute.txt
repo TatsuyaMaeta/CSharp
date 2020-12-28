@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp/day4/Sample401/Sample401/bin/Debug/netcoreapp3.1/Sample401.deps.json
+/Users/git-repo/CSharp/day4/Sample401/Sample401/bin/Debug/netcoreapp3.1/Sample401.runtimeconfig.json
+/Users/git-repo/CSharp/day4/Sample401/Sample401/bin/Debug/netcoreapp3.1/Sample401.runtimeconfig.dev.json
+/Users/git-repo/CSharp/day4/Sample401/Sample401/bin/Debug/netcoreapp3.1/Sample401.dll
+/Users/git-repo/CSharp/day4/Sample401/Sample401/bin/Debug/netcoreapp3.1/Sample401.pdb
+/Users/git-repo/CSharp/day4/Sample401/Sample401/obj/Debug/netcoreapp3.1/Sample401.csprojAssemblyReference.cache
+/Users/git-repo/CSharp/day4/Sample401/Sample401/obj/Debug/netcoreapp3.1/Sample401.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp/day4/Sample401/Sample401/obj/Debug/netcoreapp3.1/Sample401.AssemblyInfo.cs
+/Users/git-repo/CSharp/day4/Sample401/Sample401/obj/Debug/netcoreapp3.1/Sample401.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp/day4/Sample401/Sample401/obj/Debug/netcoreapp3.1/Sample401.dll
+/Users/git-repo/CSharp/day4/Sample401/Sample401/obj/Debug/netcoreapp3.1/Sample401.pdb
+/Users/git-repo/CSharp/day4/Sample401/Sample401/obj/Debug/netcoreapp3.1/Sample401.genruntimeconfig.cache
