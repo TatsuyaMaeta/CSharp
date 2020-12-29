@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{08840B69-16E6-4BE2-B911-70A39FC8D025}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="exsercise503/Program.cs">
+    <Files>
+      <File FileName="exsercise503/Program.cs" Line="57" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exsercise503" expanded="True">
+            <Node name="exsercise503" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/git-repo/CSharp/day5/exsercise503/exsercise503/Program.cs" relfile="exsercise503/Program.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.exsercise503 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

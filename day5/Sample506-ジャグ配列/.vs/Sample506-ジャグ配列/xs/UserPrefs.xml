@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BFC1CE11-265B-40D2-B648-D69492DDC4C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sample506-ジャグ配列 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample506-ジャグ配列/Program.cs">
+    <Files>
+      <File FileName="Sample506-ジャグ配列/Program.cs" Line="25" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample506-ジャグ配列" expanded="True">
+            <Node name="Sample506-ジャグ配列" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/bin/Debug/netcoreapp3.1/Exercise502.deps.json
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/bin/Debug/netcoreapp3.1/Exercise502.runtimeconfig.json
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/bin/Debug/netcoreapp3.1/Exercise502.runtimeconfig.dev.json
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/bin/Debug/netcoreapp3.1/Exercise502.dll
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/bin/Debug/netcoreapp3.1/Exercise502.pdb
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/obj/Debug/netcoreapp3.1/Exercise502.csprojAssemblyReference.cache
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/obj/Debug/netcoreapp3.1/Exercise502.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/obj/Debug/netcoreapp3.1/Exercise502.AssemblyInfo.cs
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/obj/Debug/netcoreapp3.1/Exercise502.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/obj/Debug/netcoreapp3.1/Exercise502.dll
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/obj/Debug/netcoreapp3.1/Exercise502.pdb
+/Users/git-repo/CSharp/day5/Exercise502/Exercise502/obj/Debug/netcoreapp3.1/Exercise502.genruntimeconfig.cache

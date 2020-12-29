@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/bin/Debug/netcoreapp3.1/Sample506-ジャグ配列.deps.json
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/bin/Debug/netcoreapp3.1/Sample506-ジャグ配列.runtimeconfig.json
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/bin/Debug/netcoreapp3.1/Sample506-ジャグ配列.runtimeconfig.dev.json
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/bin/Debug/netcoreapp3.1/Sample506-ジャグ配列.dll
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/bin/Debug/netcoreapp3.1/Sample506-ジャグ配列.pdb
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/obj/Debug/netcoreapp3.1/Sample506-ジャグ配列.csprojAssemblyReference.cache
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/obj/Debug/netcoreapp3.1/Sample506-ジャグ配列.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/obj/Debug/netcoreapp3.1/Sample506-ジャグ配列.AssemblyInfo.cs
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/obj/Debug/netcoreapp3.1/Sample506-ジャグ配列.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/obj/Debug/netcoreapp3.1/Sample506-ジャグ配列.dll
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/obj/Debug/netcoreapp3.1/Sample506-ジャグ配列.pdb
+/Users/git-repo/CSharp/day5/Sample506-ジャグ配列/Sample506-ジャグ配列/obj/Debug/netcoreapp3.1/Sample506-ジャグ配列.genruntimeconfig.cache

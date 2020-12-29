@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/bin/Debug/netcoreapp3.1/Sample601.deps.json
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/bin/Debug/netcoreapp3.1/Sample601.runtimeconfig.json
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/bin/Debug/netcoreapp3.1/Sample601.runtimeconfig.dev.json
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/bin/Debug/netcoreapp3.1/Sample601.dll
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/bin/Debug/netcoreapp3.1/Sample601.pdb
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/obj/Debug/netcoreapp3.1/Sample601.csprojAssemblyReference.cache
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/obj/Debug/netcoreapp3.1/Sample601.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/obj/Debug/netcoreapp3.1/Sample601.AssemblyInfo.cs
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/obj/Debug/netcoreapp3.1/Sample601.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/obj/Debug/netcoreapp3.1/Sample601.dll
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/obj/Debug/netcoreapp3.1/Sample601.pdb
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample601/Sample601/obj/Debug/netcoreapp3.1/Sample601.genruntimeconfig.cache
