@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/bin/Debug/netcoreapp3.1/Exercise601.deps.json
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/bin/Debug/netcoreapp3.1/Exercise601.runtimeconfig.json
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/bin/Debug/netcoreapp3.1/Exercise601.runtimeconfig.dev.json
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/bin/Debug/netcoreapp3.1/Exercise601.dll
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/bin/Debug/netcoreapp3.1/Exercise601.pdb
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/obj/Debug/netcoreapp3.1/Exercise601.csprojAssemblyReference.cache
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/obj/Debug/netcoreapp3.1/Exercise601.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/obj/Debug/netcoreapp3.1/Exercise601.AssemblyInfo.cs
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/obj/Debug/netcoreapp3.1/Exercise601.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/obj/Debug/netcoreapp3.1/Exercise601.dll
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/obj/Debug/netcoreapp3.1/Exercise601.pdb
+/Users/git-repo/CSharp/day6_クラスとオブジェクト/Exercise601/Exercise601/obj/Debug/netcoreapp3.1/Exercise601.genruntimeconfig.cache

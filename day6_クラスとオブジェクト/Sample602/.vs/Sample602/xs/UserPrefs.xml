@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{79FA661D-1A3A-495A-8420-542761DB300F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sample602 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample602/Calc.cs">
+    <Files>
+      <File FileName="Sample602/Program.cs" Line="14" Column="1" />
+      <File FileName="Sample602/Calc.cs" Line="18" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample602" expanded="True">
+            <Node name="Sample602" expanded="True">
+              <Node name="Calc.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/git-repo/CSharp/day6_クラスとオブジェクト/Sample602/Sample602/Program.cs" relfile="Sample602/Program.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

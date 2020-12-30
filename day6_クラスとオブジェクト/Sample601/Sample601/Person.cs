@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace Sample601
 {
@@ -22,8 +23,5 @@ namespace Sample601
             this.age = age;
         }
 
-        public Person()
-        {
-        }
     }
 }

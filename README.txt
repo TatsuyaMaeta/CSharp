@@ -42,6 +42,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+Console.WriteLineでよく使う引数使用表示
+("{0}{1}{2}{3}{4}",a,b,c,d,e);
+
+Sec7　　 -56
+1CSファイルにつき1classが普通
+	-57
+ファイル名とクラス名は原則一致させる(管理しやすい)
+同クラス内にて同じ名前のメソッドを作成できる(引数の数と戻り値が異なる場合)
 
 
 
