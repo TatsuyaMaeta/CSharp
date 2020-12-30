@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{E6FC8C2E-6F5F-4080-90DE-F28CC0FCE79A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Sample702/Access.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Sample701/Sample701/Person.cs">
     <Files>
-      <File FileName="Sample702/Program.cs" Line="1" Column="1" />
-      <File FileName="Sample702/Access.cs" Line="1" Column="1" />
+      <File FileName="Sample702/Program.cs" Line="16" Column="40" />
+      <File FileName="Sample702/Access.cs" Line="21" Column="26" />
+      <File FileName="../Sample701/Sample701/Person.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +17,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Sample702 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Sample702 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
