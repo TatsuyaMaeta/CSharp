@@ -1,13 +1,16 @@
 ﻿<Properties StartupConfiguration="{EF213F44-02F8-453B-B07E-0616F3F6911A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Sample703/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample703/Person2.cs">
     <Files>
-      <File FileName="Sample703/Program.cs" Line="1" Column="1" />
+      <File FileName="Sample703/Program.cs" Line="17" Column="63" />
+      <File FileName="Sample703/Person2.cs" Line="25" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample703" expanded="True">
-            <Node name="Sample703" expanded="True" selected="True" />
+            <Node name="Sample703" expanded="True">
+              <Node name="Person2.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

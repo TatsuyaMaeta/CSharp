@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/bin/Debug/netcoreapp3.1/Exersice701.deps.json
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/bin/Debug/netcoreapp3.1/Exersice701.runtimeconfig.json
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/bin/Debug/netcoreapp3.1/Exersice701.runtimeconfig.dev.json
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/bin/Debug/netcoreapp3.1/Exersice701.dll
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/bin/Debug/netcoreapp3.1/Exersice701.pdb
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/obj/Debug/netcoreapp3.1/Exersice701.csprojAssemblyReference.cache
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/obj/Debug/netcoreapp3.1/Exersice701.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/obj/Debug/netcoreapp3.1/Exersice701.AssemblyInfo.cs
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/obj/Debug/netcoreapp3.1/Exersice701.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/obj/Debug/netcoreapp3.1/Exersice701.dll
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/obj/Debug/netcoreapp3.1/Exersice701.pdb
+/Users/git-repo/CSharp/day7/Exersice701/Exersice701/obj/Debug/netcoreapp3.1/Exersice701.genruntimeconfig.cache
