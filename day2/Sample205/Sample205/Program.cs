@@ -14,7 +14,7 @@ namespace Sample205
             Console.Write("str2=");
             str2 = Console.ReadLine();
 
-            Console.WriteLine("str1 + str2 = {0}", str1 + str2);
+            Console.WriteLine("入力結果は、str1 + str2 = {0} です", str1 + str2);
         }
     }
 }
