@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{98C51046-3BF6-4430-8041-D57B8626D984}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Exersice701/Program.cs">
     <Files>
-      <File FileName="Exersice701/Program.cs" Line="28" Column="59" />
-      <File FileName="Exersice701/Vector2D.cs" Line="14" Column="23" />
+      <File FileName="Exersice701/Program.cs" Line="14" Column="1" />
+      <File FileName="Exersice701/Vector2D.cs" Line="2" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,5 +22,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Exersice701 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Exersice701 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
