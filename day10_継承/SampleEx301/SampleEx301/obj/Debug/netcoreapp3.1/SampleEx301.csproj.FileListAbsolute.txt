@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/bin/Debug/netcoreapp3.1/SampleEx301.deps.json
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/bin/Debug/netcoreapp3.1/SampleEx301.runtimeconfig.json
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/bin/Debug/netcoreapp3.1/SampleEx301.runtimeconfig.dev.json
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/bin/Debug/netcoreapp3.1/SampleEx301.dll
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/bin/Debug/netcoreapp3.1/SampleEx301.pdb
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/obj/Debug/netcoreapp3.1/SampleEx301.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/obj/Debug/netcoreapp3.1/SampleEx301.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/obj/Debug/netcoreapp3.1/SampleEx301.AssemblyInfo.cs
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/obj/Debug/netcoreapp3.1/SampleEx301.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/obj/Debug/netcoreapp3.1/SampleEx301.dll
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/obj/Debug/netcoreapp3.1/SampleEx301.pdb
+/Users/git-repo/CSharp-studying-Udemy/day10_継承/SampleEx301/SampleEx301/obj/Debug/netcoreapp3.1/SampleEx301.genruntimeconfig.cache

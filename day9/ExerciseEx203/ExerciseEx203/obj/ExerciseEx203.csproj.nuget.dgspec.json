@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx203/ExerciseEx203/ExerciseEx203.csproj": {}
+  },
+  "projects": {
+    "/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx203/ExerciseEx203/ExerciseEx203.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx203/ExerciseEx203/ExerciseEx203.csproj",
+        "projectName": "ExerciseEx203",
+        "projectPath": "/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx203/ExerciseEx203/ExerciseEx203.csproj",
+        "packagesPath": "/Users/tatsuya.m/.nuget/packages/",
+        "outputPath": "/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx203/ExerciseEx203/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tatsuya.m/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

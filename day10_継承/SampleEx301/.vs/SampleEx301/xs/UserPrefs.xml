@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2AB5757C-393F-419D-B82E-CB146AE983B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.SampleEx301 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleEx301/Program.cs">
+    <Files>
+      <File FileName="SampleEx301/Program.cs" Line="26" Column="1" />
+      <File FileName="SampleEx301/Calculator.cs" Line="33" Column="10" />
+      <File FileName="SampleEx301/ExCalclator.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleEx301" expanded="True">
+            <Node name="SampleEx301" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

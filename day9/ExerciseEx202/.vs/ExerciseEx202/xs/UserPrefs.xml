@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{56270F4F-E7F3-4D65-AB6F-0D091E5A9DC7}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExerciseEx202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseEx202/Numeric.cs">
+    <Files>
+      <File FileName="ExerciseEx202/Program.cs" Line="21" Column="41" />
+      <File FileName="ExerciseEx202/Numeric.cs" Line="17" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExerciseEx202" expanded="True">
+            <Node name="ExerciseEx202" expanded="True">
+              <Node name="Numeric.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

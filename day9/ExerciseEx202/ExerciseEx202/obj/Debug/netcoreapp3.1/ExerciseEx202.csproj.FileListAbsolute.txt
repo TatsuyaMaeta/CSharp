@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/bin/Debug/netcoreapp3.1/ExerciseEx202.deps.json
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/bin/Debug/netcoreapp3.1/ExerciseEx202.runtimeconfig.json
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/bin/Debug/netcoreapp3.1/ExerciseEx202.runtimeconfig.dev.json
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/bin/Debug/netcoreapp3.1/ExerciseEx202.dll
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/bin/Debug/netcoreapp3.1/ExerciseEx202.pdb
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/obj/Debug/netcoreapp3.1/ExerciseEx202.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/obj/Debug/netcoreapp3.1/ExerciseEx202.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/obj/Debug/netcoreapp3.1/ExerciseEx202.AssemblyInfo.cs
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/obj/Debug/netcoreapp3.1/ExerciseEx202.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/obj/Debug/netcoreapp3.1/ExerciseEx202.dll
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/obj/Debug/netcoreapp3.1/ExerciseEx202.pdb
+/Users/git-repo/CSharp-studying-Udemy/day9/ExerciseEx202/ExerciseEx202/obj/Debug/netcoreapp3.1/ExerciseEx202.genruntimeconfig.cache
