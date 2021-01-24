@@ -1,0 +1,12 @@
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/bin/Debug/netcoreapp3.1/SampkeEx501.deps.json
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/bin/Debug/netcoreapp3.1/SampkeEx501.runtimeconfig.json
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/bin/Debug/netcoreapp3.1/SampkeEx501.runtimeconfig.dev.json
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/bin/Debug/netcoreapp3.1/SampkeEx501.dll
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/bin/Debug/netcoreapp3.1/SampkeEx501.pdb
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/obj/Debug/netcoreapp3.1/SampkeEx501.csprojAssemblyReference.cache
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/obj/Debug/netcoreapp3.1/SampkeEx501.AssemblyInfoInputs.cache
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/obj/Debug/netcoreapp3.1/SampkeEx501.AssemblyInfo.cs
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/obj/Debug/netcoreapp3.1/SampkeEx501.csproj.CoreCompileInputs.cache
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/obj/Debug/netcoreapp3.1/SampkeEx501.dll
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/obj/Debug/netcoreapp3.1/SampkeEx501.pdb
+/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampkeEx501/SampkeEx501/obj/Debug/netcoreapp3.1/SampkeEx501.genruntimeconfig.cache

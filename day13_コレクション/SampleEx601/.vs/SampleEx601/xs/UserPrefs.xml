@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7D9F50F6-821E-4CD5-BEC2-13B224A37A61}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../CSharp/SampleEx602/SampleEx602/Program.cs">
+    <Files>
+      <File FileName="SampleEx601/Program.cs" Line="6" Column="18" />
+      <File FileName="../../../CSharp/SampleEx602/SampleEx602/Program.cs" Line="17" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleEx601" expanded="True">
+            <Node name="SampleEx601" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SampleEx601 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/git-repo/CSharp-studying-Udemy/day13_コレクション/SampleEx601/SampleEx601/Program.cs" relfile="SampleEx601/Program.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

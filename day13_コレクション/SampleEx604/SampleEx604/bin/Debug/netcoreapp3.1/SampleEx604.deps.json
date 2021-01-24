@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SampleEx604/1.0.0": {
+        "runtime": {
+          "SampleEx604.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleEx604/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

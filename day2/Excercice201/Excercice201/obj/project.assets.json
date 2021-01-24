@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/git-repo/CSharp/day2/Excercice201/Excercice201/Excercice201.csproj",
+      "projectUniqueName": "/Users/git-repo/CSharp-studying-Udemy/day2/Excercice201/Excercice201/Excercice201.csproj",
       "projectName": "Excercice201",
-      "projectPath": "/Users/git-repo/CSharp/day2/Excercice201/Excercice201/Excercice201.csproj",
+      "projectPath": "/Users/git-repo/CSharp-studying-Udemy/day2/Excercice201/Excercice201/Excercice201.csproj",
       "packagesPath": "/Users/tatsuya.m/.nuget/packages/",
-      "outputPath": "/Users/git-repo/CSharp/day2/Excercice201/Excercice201/obj/",
+      "outputPath": "/Users/git-repo/CSharp-studying-Udemy/day2/Excercice201/Excercice201/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tatsuya.m/.config/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

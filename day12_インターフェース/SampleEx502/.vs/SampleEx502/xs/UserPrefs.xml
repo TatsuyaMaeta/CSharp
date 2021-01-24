@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4C1426D8-0204-41B1-9D91-22562E6E34F6}|Default">
+  <MonoDevelop.Ide.ItemProperties.SampleEx502 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleEx502/Program.cs">
+    <Files>
+      <File FileName="SampleEx502/Program.cs" Line="21" Column="1" />
+      <File FileName="SampleEx502/Dummy.cs" Line="22" Column="1" />
+      <File FileName="SampleEx502/IFuncs1.cs" Line="14" Column="2" />
+      <File FileName="SampleEx502/IFuncs2.cs" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleEx502" expanded="True">
+            <Node name="SampleEx502" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/git-repo/CSharp-studying-Udemy/day12_インターフェース/SampleEx502/SampleEx502/Program.cs" relfile="SampleEx502/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

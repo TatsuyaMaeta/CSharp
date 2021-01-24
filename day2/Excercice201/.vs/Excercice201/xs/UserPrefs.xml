@@ -2,8 +2,22 @@
   <MonoDevelop.Ide.ItemProperties.Excercice201 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Excercice201/Program.cs">
     <Files>
-      <File FileName="Excercice201/Program.cs" Line="27" Column="2" />
+      <File FileName="Excercice201/Program.cs" Line="10" Column="32" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Excercice201" expanded="True">
+            <Node name="Excercice201" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
