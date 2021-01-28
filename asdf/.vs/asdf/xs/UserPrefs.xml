@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{11B1DA4C-50A4-4DCC-AC74-D05B9D080037}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="asdf/Program.cs">
+    <Files>
+      <File FileName="asdf/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="asdf" expanded="True">
+            <Node name="asdf" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.asdf FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
