@@ -22,6 +22,7 @@ namespace Excercice201
 
             Console.WriteLine("{0} * ({1} + {2}) + {3} / {4} = {5}",
                 f1, f2, f3, f4, f5, sum);
+            //2行で分割しても大丈夫
         }
     }
 }
